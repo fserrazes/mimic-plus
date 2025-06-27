@@ -35,7 +35,9 @@ Don’t be fooled by its simplicity. Reach level 30 and you’re a true genius
 ## 🔤 Links
 
 [Download Mimic+](https://apps.apple.com/us/app/mimic/id948236459)  
-[Download Mimic+ lite](https://apps.apple.com/us/app/mimic/id945152624)  
+[Download Mimic+ lite](https://apps.apple.com/us/app/mimic/id945152624) 
+
+[Privacy Policy](/version/free/docs/us/privacy.md)
  
 ## 📂 See It All Here
 
