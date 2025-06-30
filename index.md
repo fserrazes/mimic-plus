@@ -44,6 +44,7 @@ Don’t be fooled by its simplicity. Reach level 30 and you’re a true genius
 I’m excited to share not just the game, but *the story behind it*—technical challenges, design decisions, and lessons learned. Dive in, explore, and feel free to drop feedback or ideas.
 
 [My Journey](/journey.md)
+
 [TL;DR — Technical Summary](/technical.md)
 
 [✉️ Mail](mailto:flavio.serrazes@me.com)

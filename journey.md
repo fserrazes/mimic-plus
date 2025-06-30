@@ -2,17 +2,17 @@
 
 My professional journey began in server-side development, primarily in the industrial, financial, telecommunications, and contact center sectors. I specialized in automating processes, integrating diverse platforms for real-time communication, and managing large-scale databases—long before “Big Data” was a buzzword. Over time, I shifted toward building components, services, front ends, and web applications built for these industries.
 
-In 2015, I decided to make the leap into mobile development. I didn’t want to start from scratch—I had already built up years of technical experience. So I began a personal side project alongside my full-time job. The goal was to experience the full app lifecycle: from concept and design to distribution, monetization, and marketing—far beyond just writing code.
+In 2015, I decided to make the leap into mobile development. I didn’t want to start from scratch—I had already built up years of technical experience. So I began a personal side project alongside my full-time job. In about three months, I had a playable game on the App Store. The goal was to experience the full app lifecycle: from concept and design to distribution, monetization, and marketing—far beyond just writing code.
 
 ## Why I Chose iOS
 
-At that time, iOS development was entirely new to me. I compared the main platforms—Android, Windows Phone, and iOS—based on market share, documentation, learning curve, and how friendly each one was for solo indie developers.
+At that time, iOS development was entirely new to me. I compared the main platforms—Android, Windows Phone, and iOS—based on market share, documentation, learning curve, and how friendly each one was for solo developers.
 
 Windows Phone was already fading. BlackBerry OS and Symbian were practically obsolete. Android had a huge market, but supporting so many different devices sounded like a major hassle — something I wanted to avoid.
 
 iOS stood out. Apple’s tools were mature, the device range was limited (easier to test), and users seemed more willing to pay for well-crafted apps. I already had a Mac and an iPhone 4. Swift was still emerging, but Objective-C felt accessible thanks to my C/C++ background. It just clicked.
 
-With no mobile dev community around me, I turned to books. One book about iOS game development sparked the idea: instead of building another to-do list app, why not make a game? It sounded way more fun—and a better way to learn a new tech stack. It was a bit of a gamble, building a game while learning the platform, but it turned out to be a great bet. Today, I’m a full-time iOS Tech Lead—but back then, I was just making the most practical choice for a solo developer on limited time.
+With no mobile dev community around me, I turned to books. One book about iOS game development sparked the idea: instead of building another to-do list app, why not make a game? It sounded way more fun—and a better way to learn a new tech stack. It was a bit of a gamble—learning the platform while building a game—but it paid off. Today, I’m a full-time iOS Tech Lead—but back then, I was just making the most practical choice for a solo developer on limited time.
 
 ## Rebuilding a Childhood Classic
 
@@ -56,7 +56,7 @@ Juggling a full-time tech job, family, and daily life meant carving out time for
 Some of the biggest challenges weren’t what I expected:
 
 * **Button Animation & Sound Sync** — syncing feedback with game state was harder than expected. My first attempts had sounds playing out of order.  
-* **Asset Creation** — I dusted off Photoshop to design all buttons, icons, and theme assets was a significant mini-project in itself.
+* **Asset Creation** — I dusted off Photoshop to designing all buttons, icons, and theme assets was a significant mini-project in itself.
 * **Sound Design** — sourcing, editing, mixing, and optimizing sounds for each theme was surprisingly intense.  
 * **Auto Layout** — it was frustrating, especially with custom shapes like the quarter-donut buttons. Making sure only the visible part was tappable took days to figure out.  
 * **Localization** — I originally built the game in English, then translated it into Portuguese (my native language), German (since I live here), and even Spanish—because my sister was taking Spanish classes.  
@@ -69,5 +69,26 @@ Some of the biggest challenges weren’t what I expected:
 
 Still, I managed to integrate **Game Center leaderboards**, and created a smart **ad strategy** for the Lite version: subtle native banners with gentle nudges to upgrade to the paid version. Google AdMob’s documentation helped a lot.
 
-If you’re considering building your own game or side project—do it. It doesn’t have to be fast or perfect. Just **keep it consistent enough** to reach the finish line.
+Looking back, it wasn’t just about shipping a game — it was about proving to myself that I could turn an idea into reality, even with limited time, zero experience in mobile, and a full-time job. Mimic+ was just the beginning.
 
+## ⚖️ A Trademark Wake-Up Call
+
+In June 2021, I received what looked like a spam email from Reynolds Law, representing Hasbro:
+
+> *“The developer’s unauthorized use of Hasbro, Inc.’s SIMON® trademark as all or the dominant portion of the app name, coupled with the use of imagery copying or mimicking the classic and iconic four-color SIMON memory game image…”*
+
+At first, I ignored it. A few days later, Apple reached out directly, forwarding the complaint and making it clear this was serious: if I didn’t resolve the issue, they could pull the game—or worse, terminate my developer account.
+
+I wasn’t trying to make a fortune with the game, but I also wasn’t ready to lose the side income or my developer account.
+
+I explained how I had done due diligence before publishing: researching patents, reviewing similar apps already on the App Store, and designing original features on top of a familiar concept. Still, the law firm stood firm. I suspect the increasing download numbers had put the app on their radar.
+
+To buy time and reduce risk, I voluntarily pulled the app and informed both the law firm and Apple. That’s when the tone shifted. Hasbro clarified they had no issue with the game mechanics. If I changed the app’s title and icon, they’d consider the issue resolved.
+
+So I rebranded to Mimic+ and Mimic+ Lite, replacing the circular icon with a four-square design. I also adjusted the color arrangement to further distinguish it from the original.
+
+Fifteen days later, the law firm replied:
+
+> *“Thank you for making changes to your app to address Hasbro’s concerns regarding your use of the SIMON property. Hasbro now considers the matter resolved.”*
+
+I submitted the updated version to the App Store, and it was approved shortly after — this time with a name of my own.
