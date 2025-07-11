@@ -37,13 +37,15 @@ Don’t be fooled by its simplicity. Reach level 30 and you’re a true genius
 [Download Mimic+](https://apps.apple.com/us/app/mimic/id948236459)  
 [Download Mimic+ lite](https://apps.apple.com/us/app/mimic/id945152624) 
 
-[Privacy Policy](/version/free/docs/us/privacy.md)
+[Privacy Policy](/version/free/docs/us/privacy.md)<br>
+[Release Notes](/notes.md)
  
 ## 📂 See It All Here
 
 I’m excited to share not just the game, but *the story behind it*—technical challenges, design decisions, and lessons learned. Dive in, explore, and feel free to drop feedback or ideas.
 
-- [My Journey](/journey.md)
-- [TL;DR — Technical Summary](/technical.md)
-- [Game Evolution - Visual and Metrics](/evolution.md)
-- [✉️ Mail](mailto:flavio.serrazes@me.com)
+[My Journey](/journey.md)<br>
+[TL;DR — Technical Summary](/technical.md)<br>
+[Game Evolution - Visual and Metrics](/evolution.md)<br><br>
+[☕️ Buy me a Ko-fi](https://ko-fi.com/fserrazes)<br>
+[✉️ Mail](mailto:flavio.serrazes@me.com)
