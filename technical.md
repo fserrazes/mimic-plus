@@ -1,6 +1,6 @@
 # TL;DR — Technical Summary
 
-**Project:** Mimic+ — A memory puzzle game inspired by "Simon Says"
+**Project:** Mimic+ — A memory puzzle game inspired by *Simon Says*
 
 **Tech Stack & Tools:**
 - `UIKit`, `Swift` (initial version in `Objective-C`, later migrated)
@@ -12,6 +12,7 @@
 - Game Center for leaderboards  
 - Google AdMob (lite version)  
 - Localized in English, Portuguese, German, Spanish, French, Italian and Chinese (Simplified)
+- Open Source: Create `SPM` for Game Center integration and Review prompts
 - iPhone + iPad support
 
 **Key Challenges:**

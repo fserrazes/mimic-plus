@@ -58,8 +58,7 @@ Some of the biggest challenges weren’t what I expected:
 * **Button Animation & Sound Sync** — syncing feedback with game state was harder than expected. My first attempts had sounds playing out of order.  
 * **Asset Creation** — I dusted off Photoshop to designing all buttons, icons, and theme assets was a significant mini-project in itself.
 * **Sound Design** — sourcing, editing, mixing, and optimizing sounds for each theme was surprisingly intense.  
-* **Auto Layout** — it was frustrating, especially with custom shapes like the quarter-donut buttons. Making sure only the visible part was tappable took days to figure out.  
-* **Localization** — I originally built the game in English, then translated it into Portuguese (my native language), German (since I live here), and even Spanish—because my sister was taking Spanish classes.  
+* **Auto Layout** — it was frustrating, especially with custom shapes like the quarter-donut buttons. Making sure only the visible part was tappable took days to figure out.   
 * **iPad Support** — relatively smooth after all the iPhone layout groundwork.  
 * **Game Balancing** — tuning difficulty without player feedback meant a lot of trial and error.  
 * **UI Feedback** — making buttons feel responsive across screen sizes took time.  
@@ -70,6 +69,17 @@ Some of the biggest challenges weren’t what I expected:
 Still, I managed to integrate **Game Center leaderboards**, and created a smart **ad strategy** for the Lite version: subtle native banners with gentle nudges to upgrade to the paid version. Google AdMob’s documentation helped a lot.
 
 Looking back, it wasn’t just about shipping a game — it was about proving to myself that I could turn an idea into reality, even with limited time, zero experience in mobile, and a full-time job. Mimic+ was just the beginning.
+
+## 🔧 Giving Back with Open Source
+
+While building Mimic+ and other games, I kept repeating the same boilerplate — especially for Game Center integration and Review prompts.
+
+So in 2022, I extracted both into Swift Packages:
+
+- [GameCenterKit](https://github.com/fserrazes/GameCenterKit) – handles auth, compare leaderboards and achievements (supports UIKit and SwiftUI).
+- [RateKit](https://github.com/fserrazes/RateKit) – wraps the App Store review flow for iOS/macOS
+
+They're lightweight, open source, and built to save time for other developers facing the same headaches.
 
 ## ⚖️ A Trademark Wake-Up Call
 
