@@ -108,7 +108,7 @@ Below you’ll find a visual timeline of icons across versions, UI evolution sna
 <table>
 <tr>
     <th>Themes</th>
-<!--    <td>1.0</td>-->
+    <td>1.0</td>
 <!--    <td>1.1</td>-->
 <!--    <td>2.0 ~ 2.4</td>-->
     <td>2.4.1</td>
@@ -116,21 +116,25 @@ Below you’ll find a visual timeline of icons across versions, UI evolution sna
 </tr>
 <tr>
     <th>Classic</th>
+    <td><img height="300" src="version/paid/1.0/marketing/iPhone 6 Plus - classic.png"></td>
     <td><img height="300" src="version/paid/2.4.1/marketing/iPhone 11 Pro Max - classic.png"></td>
     <td><img height="300" src="version/paid/3.0/marketing/iPhone 16 Pro Max - classic.png"></td>
 </tr>
 <tr>
     <th>Piano</th>
+    <td><img height="300" src="version/paid/1.0/marketing/iPhone 6 Plus - piano.png"></td>
     <td><img height="300" src="version/paid/2.4.1/marketing/iPhone 11 Pro Max - piano.png"></td>
     <td><img height="300" src="version/paid/3.0/marketing/iPhone 16 Pro Max - piano.png"></td>
 </tr>
 <tr>
     <th>Kids</th>
+    <td><img height="300" src="version/paid/1.0/marketing/iPhone 6 Plus - kids.png"></td>
     <td><img height="300" src="version/paid/2.4.1/marketing/iPhone 11 Pro Max - kids.png"></td>
     <td><img height="300" src="version/paid/3.0/marketing/iPhone 16 Pro Max - kids.png"></td>
 </tr>
 <tr>
     <th>Aquarela<br>replaced by<br>Wormarium</th>
+    <td><img height="300" src="version/paid/1.0/marketing/iPhone 6 Plus - aquarela.png"></td>
     <td><img height="300" src="version/paid/2.4.1/marketing/iPhone 11 Pro Max - aquarela.png"></td>
     <td><img height="300" src="version/paid/3.0/marketing/iPhone 16 Pro Max - worm.png"></td>
 </tr>
